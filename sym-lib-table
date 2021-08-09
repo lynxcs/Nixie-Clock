@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name psu)(type Legacy)(uri ${KIPRJMOD}/psu.lib)(options "")(descr ""))
+  (lib (name nixie)(type Legacy)(uri ${KIPRJMOD}/nixie.pretty/nixies-us.lib)(options "")(descr ""))
+  (lib (name K155ID1)(type Legacy)(uri ${KIPRJMOD}/K155ID1.lib)(options "")(descr ""))
+  (lib (name power2)(type Legacy)(uri ${KIPRJMOD}/power2.lib)(options "")(descr ""))
+)

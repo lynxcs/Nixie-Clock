@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0603_1608Metric,-35.56,-71.2725,270,bottom
+C2,100nF,C_0603_1608Metric,-59.69,-71.12,270,bottom
+C3,100nF,C_0603_1608Metric,-161.925,-73.66,270,bottom
+C4,100nF,C_0603_1608Metric,-186.69,-73.66,270,bottom
+R1,8K2,R_0603_1608Metric,-58.42,-37.465,0,bottom
+R2,8K2,R_0603_1608Metric,-97.79,-37.465,0,bottom
+R3,8K2,R_0603_1608Metric,-166.37,-37.465,0,bottom
+R4,8K2,R_0603_1608Metric,-205.74,-36.83,0,bottom
+R5,220K,R_0603_1608Metric,-107.95,-46.355,270,bottom
+R6,220K,R_0603_1608Metric,-107.95,-34.925,270,bottom

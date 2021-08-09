@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name psu)(type KiCad)(uri ${KIPRJMOD}/psu.pretty)(options "")(descr ""))
+  (lib (name nixie)(type Legacy)(uri ${KIPRJMOD}/nixie.pretty/nixies-us.mod)(options "")(descr ""))
+  (lib (name K155ID1)(type KiCad)(uri ${KIPRJMOD}/K155ID1.pretty)(options "")(descr ""))
+  (lib (name ins-1)(type KiCad)(uri ${KIPRJMOD}/ins-1.pretty)(options "")(descr ""))
+)
