@@ -3,7 +3,7 @@
   <h1 align="center"><b>Nixie Clock</b></h1>
 
   <p align="center">
-    Nixie clock for my design class, including the 3D renders, PCB design and photos of the finished pcb. The case is still W.I.P
+    Nixie clock for my design class, including the 3D renders, PCB design and photos of the finished pcb.
   </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-<a href="https://github.com/lynxcs/aprasymas.pdf">Details in lithuanian here</a>
+<a href="https://github.com/lynxcs/Nixie-Clock/blob/master/aprasymas.pdf">Details in lithuanian here</a>
 
 ## Tools used
 <p>
